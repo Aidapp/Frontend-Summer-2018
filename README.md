@@ -15,8 +15,8 @@
 
 1. Create a new Repo and push the project folder.
 
-If it is your first time, follow this guide: 
-[LINK](https://help.github.com/articles/create-a-repo/)
+```If it is your first time, follow this guide: ```
+[Guide](https://help.github.com/articles/create-a-repo/)
 
 2. Copy paste the URL in the form answer.
 
